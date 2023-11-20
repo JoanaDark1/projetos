@@ -1,0 +1,63 @@
+[{
+  "TipoHash": "hashDivisao",
+  "Tamanho": 1000,
+  "TempoInsercao": 63,
+  "TempoBusca": 14
+},
+
+{
+  "TipoHash": "hashMultiplicacao",
+  "Tamanho": 1000,
+  "TempoInsercao": 13,
+  "TempoBusca": 11
+},
+
+{
+  "TipoHash": "MeuHash",
+  "Tamanho": 1000,
+  "TempoInsercao": 11,
+  "TempoBusca": 27
+},
+
+{
+  "TipoHash": "hashDivisao",
+  "Tamanho": 5000,
+  "TempoInsercao": 23,
+  "TempoBusca": 25
+},
+
+{
+  "TipoHash": "hashMultiplicacao",
+  "Tamanho": 5000,
+  "TempoInsercao": 48,
+  "TempoBusca": 29
+},
+
+{
+  "TipoHash": "MeuHash",
+  "Tamanho": 5000,
+  "TempoInsercao": 18,
+  "TempoBusca": 33
+},
+
+{
+  "TipoHash": "hashDivisao",
+  "Tamanho": 7000,
+  "TempoInsercao": 15,
+  "TempoBusca": 18
+},
+
+{
+  "TipoHash": "hashMultiplicacao",
+  "Tamanho": 7000,
+  "TempoInsercao": 19,
+  "TempoBusca": 25
+},
+
+{
+  "TipoHash": "MeuHash",
+  "Tamanho": 7000,
+  "TempoInsercao": 19,
+  "TempoBusca": 35
+}
+]

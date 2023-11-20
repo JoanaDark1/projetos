@@ -1,0 +1,27 @@
+Tamanho: 1000 Tipo de Hash: hashDivisao Tempo de inserção: 63ms
+Tempo de busca para hashDivisao: 14ms
+
+Tamanho: 1000 Tipo de Hash: hashMultiplicacao Tempo de inserção: 13ms
+Tempo de busca para hashMultiplicacao: 11ms
+
+Tamanho: 1000 Tipo de Hash: MeuHash Tempo de inserção: 11ms
+Tempo de busca para MeuHash: 27ms
+
+Tamanho: 5000 Tipo de Hash: hashDivisao Tempo de inserção: 23ms
+Tempo de busca para hashDivisao: 25ms
+
+Tamanho: 5000 Tipo de Hash: hashMultiplicacao Tempo de inserção: 48ms
+Tempo de busca para hashMultiplicacao: 29ms
+
+Tamanho: 5000 Tipo de Hash: MeuHash Tempo de inserção: 18ms
+Tempo de busca para MeuHash: 33ms
+
+Tamanho: 7000 Tipo de Hash: hashDivisao Tempo de inserção: 15ms
+Tempo de busca para hashDivisao: 18ms
+
+Tamanho: 7000 Tipo de Hash: hashMultiplicacao Tempo de inserção: 19ms
+Tempo de busca para hashMultiplicacao: 25ms
+
+Tamanho: 7000 Tipo de Hash: MeuHash Tempo de inserção: 19ms
+Tempo de busca para MeuHash: 35ms
+
